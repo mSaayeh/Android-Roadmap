@@ -113,8 +113,8 @@ We will start by learning the basics of the language.
 #### `Arabic:`
 - [Check this playlist](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ) to video no. 39
 
-#### `English (Udacity) :`
-- [Check this course](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) *(recommended)*
+#### `English:`
+- [Check this course (Udacity)](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) *(recommended)*
   or
 [this playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)
 
