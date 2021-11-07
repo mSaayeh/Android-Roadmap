@@ -1,26 +1,26 @@
 # :robot: Android Roadmap
 ![Android Cover](images/Android%20Cover.png)
-A roadmap for android developers that can guide you from the very basics of the field and help you improve your skills.
+A roadmap for android developers that can guide you from the very basics of the track and help you improve your skills.
 
 **First of all, we have to talk about**
 ## :green_book: Why should you learn Android development?
 ![Android Devices](images/Android%20Devices.png)
 With over 3 billion Android devices all over the world including:
-(:iPhone: Smartphones,
+( :iphone: Smartphones,
 :tv: TVs,
 :watch: Smartwatches,
 :car: Cars and more)
 in the hands of 2.5 billion users, it has become essential for companies to develop Android apps for their services.
 
-Before starting with Android we have to learn a programming language and because it's Android, we recommend starting with Java.
+Before starting with Android you have to learn a programming language and because it's Android, we recommend you start learning with Java.
 
 ---
 
 ## But.. Why Java? :thinking:
-- Most open-source projects are written in Java.
+- Most the open-source projects are written in Java.
 - Java has been the preferred language for Android development until May 2019
-- Most of Stack Overflow answers are written in Java
-- Most Android libraries are written in Java and to be able to use them you have to understand Java.
+- Most of the Stack Overflow answers are written in Java
+- Most Android libraries are written in Java, and to be able to use them, you have to understand Java.
 
 ## Learning Java:
 ![Learning Java](images/Learning%20Java.png)
@@ -38,7 +38,7 @@ Before starting with Android we have to learn a programming language and because
 ## Before moving to the next level you have to make sure that you understand these topics:
 - Basic syntax
 - Conditions (if - switch)
-- Looping (for - while - doWhile)
+- Looping (for - while - do While)
 - Arrays & Collections 
 - Exception handling (try-catch)
 - OOP
@@ -51,7 +51,7 @@ Before starting with Android we have to learn a programming language and because
 ---
 
 ## Android basics:
-Now you are ready to start programming real Android apps for that you will need a good IDE to help you in your journey and I recommend using Android studio.
+Now you are ready to start programming real Android apps for that you will need a good IDE to help you in your journey and I recommend you use Android studio.
 
 ![Android development](images/Android%20Development.png)
 
@@ -66,7 +66,7 @@ We will start with the basics of the basics :sweat_smile:
 2. [User Input](https://mena.udacity.com/course/android-basics-user-input--ud836)
 3. [Multiscreen](https://mena.udacity.com/course/android-basics-multiscreen-apps--ud839)
 
-Then you will learn about making a list of views using Recycler view
+Then you will learn about making a list of views using Recyclerview
 
 ### :paperclip: Resources:
 
@@ -113,14 +113,14 @@ We will start by learning the basics of the language.
 #### `Arabic:`
 - [Check this playlist](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ) to video no. 39
 
-#### `English:`
+#### `English (Udacity) :`
 - [Check this course](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) *(recommended)*
   or
 [this playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)
 
 ## Before moving to the next level you have to make sure that you understand these topics:
 - The basic syntax of Kotlin
-- Null safety concepts
+- Null safety concept
 - Looping
 - Functions and different types of them *inline, infix, extension, etc.*
 - Types in Kotlin
@@ -144,7 +144,7 @@ Now we will start writing Android apps using the skills we have learned in the p
   * Learning some SQLite basics:
     * [`English`](https://youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS) *(Recommended)*
     * [`Arabic`](https://youtu.be/7DQnyLIXEZw?list=PLF7pjAYSxOFu78LrDkXoN8XczDLeci-Fx)
-    * [`Document`](https://www.sqlitetutorial.net/)
+    * [`Document`](https://www.sqlitetutorial.net/) *(Additional)*
   * Learning Coroutines:
     * [`Arabic`](https://youtube.com/playlist?list=PLXjbGq0ERjFqGlzZFDMCHJA_PBvUIaIto) *(Recommended)*
     * [`English`](https://youtube.com/playlist?list=PLSrm9z4zp4mE-o3sPq-PqzGHoFAIsQFI6)
@@ -181,7 +181,7 @@ Hey, *Android developer*. At this level, you will just learn more and more topic
 * Jetpack compose: [Follow this course](https://developer.android.com/courses/pathways/compose)
 * Services
 * Broadcast reciever
-* Content providers
+* Content provider
 * Multi-Module applications
 
 ---
