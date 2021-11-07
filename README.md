@@ -82,7 +82,7 @@ Then you will learn about making a list of views using Recyclerview
 Then you will need to learn how to reuse portions of your app's UI by using fragments and navigation component.
 
 ### :paperclip: Resources:
-* [Arabic Next Trend](https://youtube.com/playlist?list=PL25WpelterbakuEfYt-G-TzzzzIOAZQbK)
+* Fragments: [Arabic Next Trend](https://youtube.com/playlist?list=PL25WpelterbakuEfYt-G-TzzzzIOAZQbK)
 
 ## Before moving to the next level you have to make sure that you understand these topics:
 - Design responsive android UI using XML
