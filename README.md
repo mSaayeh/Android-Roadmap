@@ -93,7 +93,7 @@ Then you will need to learn how to reuse portions of your app's UI by using frag
 - Navigation component
   - Using the Navigation graph
   - Navigating between fragments
-  - Using Drawer layout Bottom Navigation
+  - Using Drawer layout and Bottom Navigation
   - Using safe args
 - :clipboard: **Build a simple android application to apply your knowledge**
 
@@ -175,6 +175,9 @@ Hey, *Android developer*. At this level, you will just learn more and more topic
   * Making animations
   * Testing
   * Dependency Injection
+  * Live Data
+  * Firebase auth
+  * Cloud Firestore
 * MVI:
   * [Arabic Playlist *Coding with nerds*](https://www.youtube.com/playlist?list=PLXjbGq0ERjFrtwxjYICoXCbHXLTd8qgM-)
   * [English Article](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started)
