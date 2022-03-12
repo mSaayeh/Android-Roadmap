@@ -175,9 +175,6 @@ Hey, *Android developer*. At this level, you will just learn more and more topic
   * Making animations
   * Testing
   * Dependency Injection
-  * Live Data
-  * Firebase auth
-  * Cloud Firestore
 * MVI:
   * [Arabic Playlist *Coding with nerds*](https://www.youtube.com/playlist?list=PLXjbGq0ERjFrtwxjYICoXCbHXLTd8qgM-)
   * [English Article](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started)
@@ -186,6 +183,9 @@ Hey, *Android developer*. At this level, you will just learn more and more topic
 * Broadcast reciever
 * Content provider
 * Multi-Module applications
+* Live Data
+* Firebase auth
+* Cloud Firestore
 
 ---
 
