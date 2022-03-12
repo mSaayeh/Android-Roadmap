@@ -93,7 +93,7 @@ Then you will need to learn how to reuse portions of your app's UI by using frag
 - Navigation component
   - Using the Navigation graph
   - Navigating between fragments
-  - Using Drawer layout
+  - Using Drawer layout Bottom Navigation
   - Using safe args
 - :clipboard: **Build a simple android application to apply your knowledge**
 
