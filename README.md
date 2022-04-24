@@ -116,6 +116,8 @@ We will start by learning the basics of the language.
 #### `English:`
 - [Check this course (Udacity)](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) *(recommended)*
   or
+[this playlist](https://www.coursera.org/lecture/kotlin-for-java-developers/properties-GVJdx?fbclid=IwAR1nJo0ulDtPlVH3lFVCJKou9QqwfRpfvM6SnrGvobs2cNbymRMMiyG_XA0)
+or
 [this playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)
 
 ## Before moving to the next level you have to make sure that you understand these topics:
