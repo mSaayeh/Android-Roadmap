@@ -114,9 +114,9 @@ We will start by learning the basics of the language.
 - [Check this playlist](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ) to video no. 39
 
 #### `English:`
-- [Check this course (Udacity)](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) *(recommended)*
+- [Check this course (Udacity)](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) 
   or
-[this playlist](https://www.coursera.org/lecture/kotlin-for-java-developers/properties-GVJdx?fbclid=IwAR1nJo0ulDtPlVH3lFVCJKou9QqwfRpfvM6SnrGvobs2cNbymRMMiyG_XA0)
+[this course (Coursera) ](https://www.coursera.org/lecture/kotlin-for-java-developers/properties-GVJdx?fbclid=IwAR1nJo0ulDtPlVH3lFVCJKou9QqwfRpfvM6SnrGvobs2cNbymRMMiyG_XA0)
 or
 [this playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)
 
