@@ -111,7 +111,7 @@ We will start by learning the basics of the language.
 ### :paperclip: Resources:
 
 #### `Arabic:`
-- [Check this playlist](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ) to video no. 39
+- [Check this playlist](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ) to video no. 39 *(Recommended)*
 
 #### `English:`
 - [Check this course (Udacity)](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) 
