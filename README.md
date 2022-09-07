@@ -28,8 +28,9 @@ Before starting with Android you have to learn a programming language and becaus
 ### :paperclip: Resources:
 
 #### `Arabic:`
-1. [Java baiscs](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN)
-2. [OOP](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
+1. [Java baiscs + OOP](https://www.youtube.com/watch?v=FbviMTJ_vP8&list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f)
+2. [Java baiscs](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN)
+3. [OOP](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
 
 #### `English (Udacity):`
 1. [Java basics](https://www.udacity.com/course/java-programming-basics--ud282)
