@@ -28,7 +28,7 @@ Before starting with Android you have to learn a programming language and becaus
 ### :paperclip: Resources:
 
 #### `Arabic:`
-1. [Java baiscs + OOP](https://www.youtube.com/watch?v=FbviMTJ_vP8&list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f)
+1. [Java baiscs + OOP](https://www.youtube.com/watch?v=FbviMTJ_vP8&list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) *(Recommended)*
 2. [Java baiscs](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN)
 3. [OOP](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
 
@@ -180,7 +180,7 @@ Hey, *Android developer*. At this level, you will just learn more and more topic
 * MVI:
   * [Arabic Playlist *Coding with nerds*](https://www.youtube.com/playlist?list=PLXjbGq0ERjFrtwxjYICoXCbHXLTd8qgM-)
   * [English Article](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started)
-* Jetpack compose: [Follow this course](https://developer.android.com/courses/pathways/compose)
+* Jetpack compose: [Follow this course](https://developer.android.com/courses/pathways/compose) - [This Repository for more content](https://github.com/jetpack-compose/jetpack-compose-awesome)
 * Services
 * Broadcast reciever
 * Content provider
