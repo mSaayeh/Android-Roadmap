@@ -24,7 +24,7 @@ First,what is the difference between Git and GitHub?
 You can learn about them from these resources:
 1. [This playlist.](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) *(Recommended)*
 
-    [Use this file that has the most common commands in git](https://docs.google.com/document/d/e/2PACX-1vRsH5CE2ty2BzWys6bsTfJ8sYDrNg0yBy8rrVU2jWhr3QbJ1YHdXgPwZbAuf04hz-YSrjIbBkjIPABx/pub)
+    [Use this file that has the most common commands in git.](https://docs.google.com/document/d/e/2PACX-1vRsH5CE2ty2BzWys6bsTfJ8sYDrNg0yBy8rrVU2jWhr3QbJ1YHdXgPwZbAuf04hz-YSrjIbBkjIPABx/pub)
   
 3. [This course.](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer)
 
