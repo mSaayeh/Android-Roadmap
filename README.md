@@ -135,9 +135,9 @@ We will start by learning the basics of the language.
 #### `Arabic:`
 - [Check this playlist](https://www.youtube.com/playlist?list=PLXjbGq0ERjFriC0igmYE9qUwwJfEHGJ8H) *(Recommended)*
 #### `English:`
-[This course (Coursera) ](https://www.coursera.org/lecture/kotlin-for-java-developers/properties-GVJdx?fbclid=IwAR1nJo0ulDtPlVH3lFVCJKou9QqwfRpfvM6SnrGvobs2cNbymRMMiyG_XA0)
+- [This course (Coursera) ](https://www.coursera.org/lecture/kotlin-for-java-developers/properties-GVJdx?fbclid=IwAR1nJo0ulDtPlVH3lFVCJKou9QqwfRpfvM6SnrGvobs2cNbymRMMiyG_XA0)
 or
-[this playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)
+[This playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)
 
 ## Before moving to the next level you have to make sure that you understand these topics:
 - The basic syntax of Kotlin
