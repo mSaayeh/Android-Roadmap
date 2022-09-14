@@ -15,7 +15,7 @@ in the hands of 2.5 billion users, it has become essential for companies to deve
 Before starting with Android you have to know about Git and GitHub. *(If you know about them you can skip this section.)*
 
 ## Git and GitHub:
-<img src="https://user-images.githubusercontent.com/79477855/190231989-6ee5de1e-8fd0-443c-824d-d1a5aefa2e75.png" width="1200" height="600">
+<img src="https://user-images.githubusercontent.com/79477855/190231989-6ee5de1e-8fd0-443c-824d-d1a5aefa2e75.png" width="1200" height="550">
 
 
 First,what is the difference between Git and GitHub?
@@ -48,9 +48,10 @@ You are ready to start your journey with Android but before starting with Androi
 ### :paperclip: Resources:
 
 #### `Arabic:`
-1. [Java baiscs + OOP](https://www.youtube.com/watch?v=FbviMTJ_vP8&list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) *(Recommended)*
-2. [Java baiscs](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN)
-3. [OOP](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
+
+1. [Java baiscs](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN) *(Recommended)*
+2. [OOP](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
+3. [Java baiscs + OOP](https://www.youtube.com/watch?v=FbviMTJ_vP8&list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) 
 
 #### `English (Udacity):`
 1. [Java basics](https://www.udacity.com/course/java-programming-basics--ud282)
@@ -82,7 +83,7 @@ We will start with the basics of the basics :sweat_smile:
 
 #### `Arabic:`
 - [Check this playlist](https://www.youtube.com/playlist?list=PLF7pjAYSxOFu78LrDkXoN8XczDLeci-Fx) to video no. 27
-#### `English (Udacity):` *(recommended)*
+#### `English (Udacity):` *(Recommended)*
 1. [User Interface](https://mena.udacity.com/course/android-basics-user-interface--ud834)
 2. [User Input](https://mena.udacity.com/course/android-basics-user-input--ud836)
 3. [Multiscreen](https://mena.udacity.com/course/android-basics-multiscreen-apps--ud839)
