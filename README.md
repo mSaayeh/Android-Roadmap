@@ -12,7 +12,27 @@ With over 3 billion Android devices all over the world including:
 :car: Cars and more)
 in the hands of 2.5 billion users, it has become essential for companies to develop Android apps for their services.
 
-Before starting with Android you have to learn a programming language and because it's Android, we recommend you start learning with Java.
+Before starting with Android you have to know about Git and GitHub. *(If you know about them you can skip this section.)*
+
+## Git and GitHub:
+<img src="https://user-images.githubusercontent.com/79477855/190231989-6ee5de1e-8fd0-443c-824d-d1a5aefa2e75.png" width="1200" height="600">
+
+
+First,what is the difference between Git and GitHub?
+[See this](https://devmountain.com/blog/git-vs-github-whats-the-difference/)
+
+You can learn about them from these resources:
+1. [This playlist.](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) *(Recommended)*
+
+    [Use this file that has most common commands in git](https://docs.google.com/document/d/e/2PACX-1vRsH5CE2ty2BzWys6bsTfJ8sYDrNg0yBy8rrVU2jWhr3QbJ1YHdXgPwZbAuf04hz-YSrjIbBkjIPABx/pub)
+  
+3. [This course.](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer)
+
+Use this file that 
+NOW,you need to know how to use Git and GitHub with Android Studio which provides app builders with an integrated development environment (IDE) optimized for Android apps.
+[Watch this video](https://www.youtube.com/watch?v=ebqbIyicCFU&list=WL&index=1&t=351s)
+
+You are ready to start your journey with Android but before starting with Android you have to learn a programming language and because it's Android, we recommend you start learning with Java.
 
 ---
 
@@ -54,7 +74,7 @@ Before starting with Android you have to learn a programming language and becaus
 ## Android basics:
 Now you are ready to start programming real Android apps for that you will need a good IDE to help you in your journey and I recommend you use Android studio.
 
-![Android development](images/Android%20Development.png)
+<img src="https://user-images.githubusercontent.com/79477855/190239385-a75b50ad-9346-47db-a16e-0700c638b5c9.png" width="1000" height="850">
 
 We will start with the basics of the basics :sweat_smile:
 
