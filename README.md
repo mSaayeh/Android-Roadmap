@@ -15,7 +15,7 @@ in the hands of 2.5 billion users, it has become essential for companies to deve
 Before starting with Android you have to know about Git and GitHub. *(If you know about them you can skip this section.)*
 
 ## Git and GitHub:
-<img src="https://user-images.githubusercontent.com/79477855/190231989-6ee5de1e-8fd0-443c-824d-d1a5aefa2e75.png" width="1200" height="550">
+<img src="https://user-images.githubusercontent.com/79477855/190231989-6ee5de1e-8fd0-443c-824d-d1a5aefa2e75.png" width="1200" height="500">
 
 
 First,what is the difference between Git and GitHub?
