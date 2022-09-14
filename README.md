@@ -135,9 +135,7 @@ We will start by learning the basics of the language.
 #### `Arabic:`
 - [Check this playlist](https://www.youtube.com/playlist?list=PLXjbGq0ERjFriC0igmYE9qUwwJfEHGJ8H) *(Recommended)*
 #### `English:`
-- [Check this course (Udacity)](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) *(Recommended)*
-  or
-[this course (Coursera) ](https://www.coursera.org/lecture/kotlin-for-java-developers/properties-GVJdx?fbclid=IwAR1nJo0ulDtPlVH3lFVCJKou9QqwfRpfvM6SnrGvobs2cNbymRMMiyG_XA0)
+[This course (Coursera) ](https://www.coursera.org/lecture/kotlin-for-java-developers/properties-GVJdx?fbclid=IwAR1nJo0ulDtPlVH3lFVCJKou9QqwfRpfvM6SnrGvobs2cNbymRMMiyG_XA0)
 or
 [this playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)
 
