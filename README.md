@@ -216,3 +216,5 @@ Hey, *Android developer*. At this level, you will just learn more and more topic
 You have to continue learning more and more and try to be always up-to-date with the new technologies coming to the field.
 
 You can follow [Android Developers](https://www.youtube.com/c/AndroidDevelopers) YT Channel and watch their [MAD Skills](https://www.youtube.com/c/AndroidDevelopers/playlists?view=50&sort=dd&shelf_id=5) series to stay up-to-date.
+
+You can check [This Site](https://www.raywenderlich.com/android/books?fbclid=IwAR0yqTqcSYWCe1g2pNbhCfuMUlBhWLzTu_xVAutRfgpC3-P2cqhyBjG1R-o) for very important books in Android and Kotlin and other awesome stuff.
