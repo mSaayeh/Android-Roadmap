@@ -173,13 +173,13 @@ Now we will start writing Android apps using the skills we have learned in the p
 * Try to follow each lesson by answering its QUIZs and make projects to apply what you have learned.
 
 ## Before moving to the next level you have to make sure that you understand these topics:
-- Developing Android apps using Kotlin
-- Good understanding of Android lifecycle
-- Design patterns *MVC, MVP, **MVVM***  [Watch this](https://www.youtube.com/playlist?list=PLe_W3T1SDsYgXzPjQK91xnOaF1iF3KDJ3)
-- SQLite basics and Room database
-- Connect your app to the internet using Retrofit
-- Multithreading using Coroutines
-- Design adaptive layouts depending on the settings of the user's device
+- Developing Android apps using Kotlin.
+- Good understanding of Android lifecycle.
+- Design patterns *MVC, MVP, **MVVM***  [Watch this](https://www.youtube.com/playlist?list=PLe_W3T1SDsYgXzPjQK91xnOaF1iF3KDJ3).
+- SQLite basics and Room database.
+- Connect your app to the internet using Retrofit.
+- Multithreading using Coroutines.
+- Design adaptive layouts depending on the settings of the user's device.
 - :clipboard: **Build applications to apply the knowledge you have learned in each topic**
 
 ---
@@ -191,22 +191,22 @@ Hey, *Android developer*. At this level, you will just learn more and more topic
 
 ### Topics to learn:
 * [Watch this](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) Udacity course which discussing these topics:
-  * Notifications
-  * Custom views and Canvas
-  * Making animations
-  * Testing
-  * Dependency Injection
+  * Notifications.
+  * Custom views and Canvas.
+  * Making animations.
+  * Testing.
+  * Dependency Injection.
 * MVI:
-  * [Arabic Playlist *Coding with nerds*](https://www.youtube.com/playlist?list=PLXjbGq0ERjFrtwxjYICoXCbHXLTd8qgM-)
-  * [English Article](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started)
-* Jetpack compose: [Follow this course](https://developer.android.com/courses/pathways/compose) - [This Repository for more content](https://github.com/jetpack-compose/jetpack-compose-awesome)
-* Services
-* Broadcast reciever
-* Content provider
-* Multi-Module applications
-* Live Data
-* Firebase auth
-* Cloud Firestore
+  * [Arabic Playlist *Coding with nerds*](https://www.youtube.com/playlist?list=PLXjbGq0ERjFrtwxjYICoXCbHXLTd8qgM-).
+  * [English Article](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started).
+* Jetpack compose: [Follow this course](https://developer.android.com/courses/pathways/compose) - [This Repository for more content](https://github.com/jetpack-compose/jetpack-compose-awesome).
+* Services.
+* Broadcast reciever.
+* Content provider.
+* Multi-Module applications.
+* Live Data.
+* Firebase auth.
+* Cloud Firestore.
 
 ---
 
@@ -217,4 +217,4 @@ You have to continue learning more and more and try to be always up-to-date with
 
 You can follow [Android Developers](https://www.youtube.com/c/AndroidDevelopers) YT Channel and watch their [MAD Skills](https://www.youtube.com/c/AndroidDevelopers/playlists?view=50&sort=dd&shelf_id=5) series to stay up-to-date.
 
-You can check [This Site](https://www.raywenderlich.com/android/books?fbclid=IwAR0yqTqcSYWCe1g2pNbhCfuMUlBhWLzTu_xVAutRfgpC3-P2cqhyBjG1R-o) for very important books in Android and Kotlin and other awesome stuff.
+You can also check [This Site](https://www.raywenderlich.com/android/books?fbclid=IwAR0yqTqcSYWCe1g2pNbhCfuMUlBhWLzTu_xVAutRfgpC3-P2cqhyBjG1R-o) for very important books in Android and Kotlin and other awesome stuff.
