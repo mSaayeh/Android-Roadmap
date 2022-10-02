@@ -161,6 +161,7 @@ Now we will start writing Android apps using the skills we have learned in the p
 
 [Check this course from Udaicty](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) it has covered most of the topics you have to learn at this level, we just have some recommendations:
 * Before advancing to lesson 5 try to search about *Design Patterns* and their different types.
+    * [`English`](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) *(Recommended)*
 * Before advancing to lesson 6 we recommend:
   * Learning some SQLite basics:
     * [`English`](https://youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS) *(Recommended)*
@@ -175,7 +176,7 @@ Now we will start writing Android apps using the skills we have learned in the p
 ## Before moving to the next level you have to make sure that you understand these topics:
 - Developing Android apps using Kotlin.
 - Good understanding of Android lifecycle.
-- Design patterns *MVC, MVP, **MVVM***  [Watch this](https://www.youtube.com/playlist?list=PLe_W3T1SDsYgXzPjQK91xnOaF1iF3KDJ3).
+- Design architectures *MVC, MVP, **MVVM***  [Watch this](https://www.youtube.com/playlist?list=PLe_W3T1SDsYgXzPjQK91xnOaF1iF3KDJ3).
 - SQLite basics and Room database.
 - Connect your app to the internet using Retrofit.
 - Multithreading using Coroutines.
